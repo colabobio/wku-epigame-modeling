@@ -1,6 +1,8 @@
 # Mathematical epidemiological analysis of the WKU game data
 
-This repository contains all the code necessary to reproduce the results in the paper "The effect of Behavioral Factors and Intervention Strategies on Pathogen Transmission: Insights from a Two-Week Epidemic Game at Wenzhou-Kean University in China", by Musa et al. The preprint published on medRxiv is available following [this link](https://www.medrxiv.org/content/10.1101/2024.12.14.24318955).
+This repository contains all the code necessary to reproduce the results in the paper "The effect of Behavioral Factors and Intervention Strategies on Pathogen Transmission: Insights from a Two-Week Epidemic Game at Wenzhou-Kean University in China", by Musa et al. The preprint published on medRxiv is available following [this link](https://www.medrxiv.org/content/10.1101/2024.12.14.24318955), and the paper is published in Scientific Reports, freely available [here](https://www.nature.com/articles/s41598-026-49530-y). It can be cited as follows:
+
+Musa, S.S., Mkandawire, W., Inekwe, T. et al. App-based epidemic game in a university campus reveals how risk perception and behavioral interventions shape disease transmission dynamics. Sci Rep (2026). https://doi.org/10.1038/s41598-026-49530-y
 
 ## Getting started
 
